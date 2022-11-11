@@ -32,8 +32,8 @@
           <h2>Movie Talk</h2>
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
           <p class="mins">10 mins</p>
-          <p class="description">In this podcast we will be discussing about different types of movies. We will also be playing a game of which bad movie review belongs to which movie. <a href="https://soundcloud.com/ellie-stauch">Movie Talks</a>. Create that "itch" to click we talked about!</p>            
-        </div>
+          <p class="description">In this podcast we will be discussing about different types of movies. We will also be playing a game of which bad movie review belongs to which movie. <a href="https://soundcloud.com/ellie-stauch">Movie Talks</a>. Create that "itch" to click we talked about!</p>
+
           </p>
         </div>
         <div class="recipe c">
