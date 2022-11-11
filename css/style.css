@@ -15,7 +15,7 @@ header, footer {
 }
 header {
   font-family: 'Playfair Display', serif;
-  color: #9d0208;
+  color: #ffffff;
   min-height: 100vh;
   display: flex;
 }
@@ -61,7 +61,7 @@ img {
 }
 
 .bio {
-  color: #9d0208;
+  color: #ffffff;
   font-size: 24px;
   font-family: 'Playfair Display', serif;
 }
@@ -75,7 +75,7 @@ img {
   border-radius: 28px;
   border: 1px solid #9d0208;
   cursor: pointer;
-  color: #9d0208;
+  color: #ffffff;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
