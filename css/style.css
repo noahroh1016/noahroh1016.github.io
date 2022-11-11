@@ -8,13 +8,13 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffa500;
+  background-color: #a2d2ff;
   text-align: left;
   /*min-width: 500px;*/
 
 }
 header {
-  font-family: Work Sans;
+  font-family: Playfair;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -32,14 +32,14 @@ main {
   align-content: center;
 }
 h1 {
-  font-family: Poppins;
+  font-family: Lato;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
   line-height: 1.3;
 }
 h2 {
-  font-family: Poppins;
+  font-family: Lato;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -63,7 +63,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'Playfair';
 }
 .buttonBox {
   display: flex;
@@ -83,8 +83,9 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#a2d2ff;
 }
+
 
 .myButton:active {
     position:relative;
@@ -113,7 +114,7 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
+  font-family: Latos;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -124,7 +125,7 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: Playfair;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
